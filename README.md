@@ -1,4 +1,8 @@
-# FirstAngularApp
+# To-Do Checklist
+
+Built a simple To-do checklist web application with Angular that can add tasks, check off tasks in a list, and delete tasks from the list.
+
+## FirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
